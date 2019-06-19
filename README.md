@@ -11,3 +11,5 @@ Game data is included. Simply download Haskell's GHCi, run the file, and type/en
 At each game loop, the player has to input a number that corresponds to a location or character. Multiple numbers can be entered for interactions with multiple characters.
 
 Below is an example.
+
+![Example](https://github.com/nimryf/text-adventure/blob/master/example.jpg)
