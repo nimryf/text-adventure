@@ -6,7 +6,7 @@ It takes advantage of several aspects of functional programming, namely recursiv
 
 # Setting up and playing
 
-Game data is included. Simply download Haskell's GHCi, run the file, and type/enter 'game' to start.
+Game data is included. Simply download Haskell's GHCi, run the file, and type/enter _game_ to start.
 
 At each game loop, the player has to input a number that corresponds to a location or character. Multiple numbers can be entered for interactions with multiple characters.
 
